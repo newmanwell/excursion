@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.header_link {
+    display: flex;
+    color: aquamarine;
+    font-size: 16px;
+}
