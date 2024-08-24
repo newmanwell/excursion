@@ -22,7 +22,8 @@ header {
 }
 
 .cellphone {
-
+ display: flex;
+ justify-content: center;
 }
 
 .camp {
