@@ -1,1 +1,1 @@
-A codecademy project creating a adventure site with video and images. Fun one to learn on.
+A codecademy project creating a adventure site with video and images. Fun one to learn on. A side exercise was that I created the readme on github after pushing. I then pullex the read me and updated the last two sentances on my local laptop and pushed back to my repository. 
